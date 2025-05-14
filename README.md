@@ -23,14 +23,22 @@ A powerful, Python-based tool to analyze emails for phishing indicators, malicio
 ## 🔧 Setup
 Clone the repo (or copy the file):
 ```bash
-git clone https://github.com//email-analyzer
-cd email-analyzer
+git clone https://github.com/devkumar-swipe/Email_Filtering-toolkit.git
+cd Email_Filtering-toolkit
 ```
 Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+OR
+```
+pip install requests
+```
 ## 🧑‍💻 Usage
+help
+```bash
+python3 email_Analyzer.py -h
+```
 
 ```bash
 python3 email_Analyzer.py --email you@example.com --password yourpassword --vt-api-key YOUR_VT_KEY
@@ -42,6 +50,17 @@ python3 email_Analyzer.py --email you@example.com --password yourpassword --vt-a
 --limit	Limit number of emails scanned (default: 10)
 --full-scan	Scan entire mailbox (overrides --limit)
 
+(Optional) Get a free VirusTotal API key and insert it via --vt-api-key.(https://www.virustotal.com/)
 
+
+### 🛑 Disclaimer
+This tool is for educational and research purposes only.
+Do not use it on email accounts you do not own or have permission to analyze.
+
+### 👤 Author
+AwesomeVed
+Certified Ethical Hacker (CEH)
+Cybersecurity Student & Bug Bounty Hunter
+GitHub: Ved's GitHub
 
 
