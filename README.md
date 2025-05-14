@@ -11,7 +11,7 @@ A powerful, Python-based tool to analyze emails for phishing indicators, malicio
 - 🔍 Keyword-based phishing detection
 - 📅 Custom date-range filtering for emails
 - 🧪 Full or limited scans (latest N emails)
-- 📄 Clean CLI with banner and argument help
+- 📄 Clean argument help
 
 ---
 
@@ -57,10 +57,22 @@ python3 email_Analyzer.py --email you@example.com --password yourpassword --vt-a
 This tool is for educational and research purposes only.
 Do not use it on email accounts you do not own or have permission to analyze.
 
+
+
+
+## 🔮 Future Enhancements
+🔁 Automation via Cron Jobs
+📬 Notifications and Alerts
+📊 Logging and Reporting
+🔗 Threat Intelligence Integration
+🔐 OAuth Support
+🐳 Dockerization
+🧠 Machine Learning-Based Detection (Planned)
+
 ### 👤 Author
 AwesomeVed
-Certified Ethical Hacker (CEH)
 Cybersecurity Student & Bug Bounty Hunter
-GitHub: Ved's GitHub
+mail: devkumarmahto204@outlook.com
+
 
 
