@@ -27,8 +27,8 @@ This Python-based tool is designed to analyze email content for phishing and mal
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/email-analyzer-vt.git
-cd email-analyzer-vt
+git clone https://https://github.com/devkumar-swipe/Email_Filtering-toolkit.git
+cd Email_Filtering-toolkit
 ```
 
 ### Install dependencies:
@@ -78,4 +78,8 @@ Threat Intelligence Integration: Cross-reference URLs and IPs with other threat 
 Machine Learning: Build models to classify phishing vs. safe emails based on extracted features.
 
 Real-time Alerts: Notify security teams when malicious content is detected.
+
+### Screenshot
+![Screenshot from 2025-05-14 23-18-49](https://github.com/user-attachments/assets/cc4a03b7-f1fa-4831-b680-59c8e8e0d69f)
+
 
